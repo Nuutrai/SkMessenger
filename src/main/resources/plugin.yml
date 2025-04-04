@@ -1,0 +1,6 @@
+name: SkMessenger
+version: '0.1.0'
+main: com.nuutrai.skmessenger.SkMessenger
+api-version: '1.21'
+depend: [ Skript ]
+authors: [ Nuutrai ]
